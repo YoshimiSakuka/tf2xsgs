@@ -1,3 +1,16 @@
+# Origin
+
+The origin idea is put by on [Baidu tieba](https://tieba.baidu.com).
+
+# Details 
+
+For more details plz see [【军团要塞2同人：军团要塞2x三国杀】](https://tieba.baidu.com/p/5254019477).
+
+# Bases
+
+## 1.[github noname](https://github.com/libccy/noname/releases/latest)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/YoshimiSakuka/tf2xsgs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
