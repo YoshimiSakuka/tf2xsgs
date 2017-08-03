@@ -8,7 +8,7 @@ For more details plz see [【军团要塞2同人：军团要塞2x三国杀】](h
 
 # Bases
 
-## 1.[github noname](https://github.com/libccy/noname/releases/latest)
+## 1.[github _noname_](https://github.com/libccy/noname/releases/latest)
 
 
 ## Welcome to GitHub Pages
